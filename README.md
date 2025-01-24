@@ -1,7 +1,7 @@
 # TimeGAN 
 
-> **Note on Training Constraints**  
-> Due to hardware limitations, training this GAN (Generator + Discriminator) for more epochs or with larger batch sizes is not feasible here. As a result, the model does not fully achieve maximum accuracy or fidelity. This code, however, demonstrates how to generate synthetic HR-like signals and train a basic GAN under constrained conditions.
+## **Note on Training Constraints**  
+Due to hardware limitations, training this GAN (Generator + Discriminator) for more epochs or with larger batch sizes is not feasible here. As a result, the model does not fully achieve maximum accuracy or fidelity. This code, however, demonstrates how to generate synthetic HR-like signals and train a basic GAN under constrained conditions.
 
 ## Project Overview
 
