@@ -48,3 +48,15 @@ This project demonstrates:
 
 - [Kaggle: Stress Recognition in Automobile Drivers](https://www.kaggle.com/datasets/bjoernjostein/stress-recognition-in-automobile-drivers)  
 - Same data is used in the LSTM Autoencoder project for anomaly detection on HR signals.
+
+## Examples
+
+### Original HR
+
+<img width="895" height="313" alt="image" src="https://github.com/user-attachments/assets/75a81c4b-e67c-40de-9a83-1a08aac03842" />
+
+### Synthetic Signals
+
+<img width="810" height="601" alt="image" src="https://github.com/user-attachments/assets/22cffdf6-efc4-4d62-9448-599a3f67f1b0" />
+
+
